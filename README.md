@@ -28,7 +28,7 @@
   - **[Driver Monitoring System (Fatigue Detection)](https://github.com/sk-2157/dms)** (OpenCV, ML, Real-time monitoring)
 - 🌱 Learning: Advanced Computer Vision, Cloud deployment for ML
 - 💬 Ask me about: Python, ML, Django, OpenCV
-- 📫 Reach me: [your.email@example.com](mailto:shubhamkhedekar5770@gmail.com)
+- 📫 Reach me: mailto:shubhamkhedekar5770@gmail.com
 - ⚡ Fun fact: I love hackathons and AI competitions!
 
 ---
